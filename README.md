@@ -5,7 +5,7 @@
 ```
 Forum App, with a frontend built in React & Redux and a backend built in Django API.
 ```
-
+[live Replit Deployment](https://Hungercaptainfrontend.akashmsra.repl.co)
 ## ScreenShot
 ![Screenshot 2022-06-29 at 12 50 00 PM](https://user-images.githubusercontent.com/101166793/176389311-caae6829-d4cf-493c-a5a9-132cdf8a4648.png)
 
